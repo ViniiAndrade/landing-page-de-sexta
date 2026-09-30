@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Landing Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <header class="topo">
+      <h1 class="h1">PlayBoy e Filantropo</h1>
+    </header>
+
+    <section class="destaque">
+      <img src="img/735bfe905cc7b6628759738b39336a01.jpg" alt="Imagem principal">
+    </section>
+
+    <footer class="rodape">
+      <img src="img/871abc540671b154d2840555128cc8ce.jpg" alt="Imagem 1">
+      <img src="img/32b1be60f6d9524f8b943784446fb2d9.jpg" alt="Imagem 2">
+      <img src="img/4e4df04c1cd683d46d770ebcf788d8d4.jpg" alt="Imagem 3">
+    </footer>
+  </main>
+</body>
+</html>
